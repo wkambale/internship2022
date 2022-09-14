@@ -1,0 +1,24 @@
+# pip
+
+# pip install virtualenv
+
+--> python -m pip install virtualenv
+
+# pip install virtualenvwrapper
+
+# python -m venv env-name
+
+# Activate our virtual environment
+--> \Scripts\activate.bat
+
+# pip install django
+
+# django-admin startproject internproject
+
+# python manage.py runserver
+
+# python manage.py startapp polls
+
+# Made some edits in views, urls
+
+# python manage.py runserver
